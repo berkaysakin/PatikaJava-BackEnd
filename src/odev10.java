@@ -47,7 +47,7 @@ public class odev10 {
             System.out.println("kaldınız");
         }
 
-        System.out.println("notunuz" + ortalama);
+        System.out.println("notunuz : " + ortalama);
 
     }
 }
