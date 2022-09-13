@@ -12,7 +12,7 @@ public class odev18 {
             number=input.nextInt();
 
 
-                if (number % 2 == 0 && number % 4 == 0) {
+                if (number%2==0 || number%4==0) {
                     total += number;
 
                 }
